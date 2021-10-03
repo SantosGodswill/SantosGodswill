@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SantosGodswill
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning python Django
 - 💞️ I’m looking to collaborate on my Projects
 - 📫 How to reach me santosgodswill15@gmail.com
